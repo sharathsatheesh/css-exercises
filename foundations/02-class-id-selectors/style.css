@@ -1,0 +1,17 @@
+.oddelement, .thirdelement {
+    background-color: rgba(255,0,0,0.3);
+    font-family:Verdana, Dejavu Sans, sans-serif;
+}
+
+.thirdelement{
+    font-size: 24px;
+}
+#secelement {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+#fourthelement {
+    background-color: rgba(0,255,0,0.3);
+    font-size: 24px;
+    font-weight:bolder;
+}
